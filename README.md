@@ -1,0 +1,2 @@
+# hammeramk
+Hammer amcık
